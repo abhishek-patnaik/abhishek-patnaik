@@ -18,30 +18,26 @@
 
 </div>
 
-## 🖥️ Terminal
-
 ```text
-            @@@@@@@               Abhishek @ MoonlightABHI
-         @@@@@@@@@@@@@        *   ----------------------------------------------
-       @@@@@@@@@@@@               OS .................... Windows 11*
-      @@@@@@@@@@          .       Uptime ................ 2X years, X months*
-     @@@@@@@@@       *            Host .................. India
-    @@@@@@@@@                     IDE ................... VS Code*
-    @@@@@@@@              +
-    @@@@@@@@       .              Languages.Programming .. TypeScript, Python, PHP
-    @@@@@@@@@                *    Languages.Real ........ English, Hindi*
-     @@@@@@@@@       +            Frameworks ............ Next.js, React, FastAPI
-      @@@@@@@@@@                  Desktop & DB .......... Electron, MySQL, SQLite
-       @@@@@@@@@@@@       .
-         @@@@@@@@@@@@@            Hobbies.Software ...... SaaS MVPs, arcade games
-            @@@@@@@        *      Contact.Email ......... abhi.tech4life@gmail.com
-                                  Contact.GitHub ........ MoonlightABHI
-
-                                  Repos ................. 24 public {16 SaaS}
-                                  Contributions ......... 49+ and climbing
+      *            .                   .               *           .
+             .              *                  .              .
+   .                  .          .--------.           *
+                              .-'   .   o  '-.                    .
+          *                  /  o     .       \        .
+                            |     .       o    |
+     .          .           |  o      .        |             *
+                            |      o       .   |     .
+              *              \  .       o     /
+   .                 .        '-.   o     .-'          .
+                        .        '--------'                    *
+        .                                          .
+                 /\             .           /\             .
+        /\      /  \     /\           /\   /  \    /\
+       /  \    /    \   /  \    /\   /  \ /    \  /  \      /\
+   ___/    \__/      \_/    \__/  \_/    '      \/    \____/  \___
+      ~  ~~~ ~ ~~ ~~~~ ~ ~~~ ~~ ~ ~~~ ~~~ ~~ ~ ~~~~ ~ ~~~ ~~ ~~ ~
+    ~~~   ~ ~~   ~~~ ~  ~~ ~~~~~  ~~ ~  ~~~~  ~~ ~~   ~~~ ~   ~~~
 ```
-
-<sub>* placeholders — Abhishek, correct these!</sub>
 
 ## 👨‍💻 About Me
 
