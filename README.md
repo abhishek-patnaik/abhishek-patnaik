@@ -9,7 +9,7 @@
 ## 🔗 Connect with me
 
 <a href="mailto:abhi.tech4life@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/MoonlightABHI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/abhishek-patnaik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <!-- Add your links here:
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
@@ -77,16 +77,16 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MoonlightABHI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonlightABHI&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhishek-patnaik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-patnaik&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=MoonlightABHI&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=abhishek-patnaik&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoonlightABHI&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true" width="95%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-patnaik&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true" width="95%" alt="Contribution Graph" />
 
 <br/><br/>
 
